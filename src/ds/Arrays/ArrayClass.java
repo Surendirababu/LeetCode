@@ -126,6 +126,7 @@ public class ArrayClass {
 
     }
 
+    //Print Elements
     private static void printElements(int[] intArr) {
         int len = intArr.length;
         for(int i = 0; i < len; i++) {
